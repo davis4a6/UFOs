@@ -29,6 +29,7 @@ The user can customize their search by adding in the search criteria they are lo
 # Summary
 Drawbacks
 As with any project, this page has a few drawbacks, or things we could improve upon. They include:
+
     * The search field does not automatically reset. This forces the user to   
     backspace and delete if they should want to change their filter search to something else.
 
