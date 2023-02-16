@@ -27,15 +27,21 @@ The user can customize their search by adding in the search criteria they are lo
 ![Alt text](static/images/Filter.PNG)
 
 # Summary
+Drawbacks
 As with any project, this page has a few drawbacks, or things we could improve upon. They include:
     * The search field does not automatically reset. This forces the user to   
     backspace and delete if they should want to change their filter search to something else.
 
+    * There is no Enter button and the filter just updates automatically. This can create some confusion for the user when trying to submit their filter entry.
+
     * The data provided in the table is limited and not connected to a "live-updated" source.
 
 In the future, some recommendations that I can make to further develop this webpage are:
+
     1. Adding a function to automatically reset the search bar so the user is not inconvienenced.
 
     2. Add a function to pull data from a live source that includes both current and past data.
 
     3. Add a section that displays recent news articles of reported sightings. For example, the recent news of the 4 shootdowns of "unidentified objects" in the US. This would give users another resource to connect their findings to.
+
+    4. Add a button-click so that the user can press 'Enter' as they prepare to use the filter search.
